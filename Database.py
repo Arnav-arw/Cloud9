@@ -2,7 +2,7 @@ from tkinter import *
 import sqlite3
 
 root = Tk()
-root.title('Cloud9 2.0')
+root.title('Cloud9 Database')
 
 conn = sqlite3.connect('address_book.db')
 c = conn.cursor()
