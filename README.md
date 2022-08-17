@@ -1,4 +1,4 @@
-# Cloud9-2.0
+# Cloud9
 
 Cloud9 is an advance delivery database app written in Python along with Tkinter as its GUI library. It is using Python's built in sqlite3 database for offline storage and MongoDB for online storage.
 
